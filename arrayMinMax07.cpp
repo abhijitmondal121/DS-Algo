@@ -1,5 +1,7 @@
 
 
+
+
 // Q : 7
 // Maximum and minimum of an array using
 #include<iostream>
